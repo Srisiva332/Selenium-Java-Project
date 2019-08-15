@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-15T14:20:59Z" name="Suite" finished-at="2019-08-15T14:20:59Z" duration-ms="178">
+    <groups>
+    </groups>
+    <test started-at="2019-08-15T14:20:59Z" name="Test" finished-at="2019-08-15T14:20:59Z" duration-ms="62">
+      <class name="com.mycompany.seleniumjavaproject.Sample1Test">
+        <test-method is-config="true" signature="Sample1BeforeTest()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1BeforeTest" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1BeforeTest -->
+        <test-method is-config="true" signature="Sample2BeforeClass()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample2BeforeClass" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2BeforeClass -->
+        <test-method is-config="true" signature="Sample1BeforeMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1BeforeMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1BeforeMethod -->
+        <test-method signature="Sample1Test1()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1Test1" finished-at="2019-08-15T14:20:59Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1Test1 -->
+        <test-method is-config="true" signature="Sample1AfterMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1AfterMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1AfterMethod -->
+        <test-method is-config="true" signature="Sample1BeforeMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1BeforeMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1BeforeMethod -->
+        <test-method signature="Sample1Test2()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1Test2" finished-at="2019-08-15T14:20:59Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1Test2 -->
+        <test-method is-config="true" signature="Sample1AfterMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1AfterMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1AfterMethod -->
+        <test-method is-config="true" signature="Sample1BeforeMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1BeforeMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1BeforeMethod -->
+        <test-method signature="Sample1Test3()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1Test3" finished-at="2019-08-15T14:20:59Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1Test3 -->
+        <test-method is-config="true" signature="Sample1AfterMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1AfterMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1AfterMethod -->
+        <test-method is-config="true" signature="Sample2AfterClass()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample2AfterClass" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2AfterClass -->
+        <test-method is-config="true" signature="Sample1AfterTest()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1AfterTest" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1AfterTest -->
+      </class> <!-- com.mycompany.seleniumjavaproject.Sample1Test -->
+    </test> <!-- Test -->
+    <test started-at="2019-08-15T14:20:59Z" name="Test2" finished-at="2019-08-15T14:20:59Z" duration-ms="23">
+      <class name="com.mycompany.seleniumjavaproject.Sample1Test">
+        <test-method is-config="true" signature="Sample1BeforeSuite()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1BeforeSuite" finished-at="2019-08-15T14:20:59Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1BeforeSuite -->
+        <test-method is-config="true" signature="Sample1AfterSuite()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample1Test@53ca01a2]" started-at="2019-08-15T14:20:59Z" name="Sample1AfterSuite" finished-at="2019-08-15T14:20:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1AfterSuite -->
+      </class> <!-- com.mycompany.seleniumjavaproject.Sample1Test -->
+      <class name="com.mycompany.seleniumjavaproject.Sample2Test">
+        <test-method is-config="true" signature="Sample2BeforeTest()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2BeforeTest" finished-at="2019-08-15T14:20:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2BeforeTest -->
+        <test-method is-config="true" signature="Sample2BeforeClass()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2BeforeClass" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2BeforeClass -->
+        <test-method signature="Sample2Test1()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2Test1" finished-at="2019-08-15T14:20:59Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2Test1 -->
+        <test-method is-config="true" signature="Sample2BeforeMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2BeforeMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2BeforeMethod -->
+        <test-method is-config="true" signature="Sample2AfterMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2AfterMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2AfterMethod -->
+        <test-method is-config="true" signature="Sample2BeforeMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2BeforeMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2BeforeMethod -->
+        <test-method signature="Sample2Test2()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2Test2" finished-at="2019-08-15T14:20:59Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2Test2 -->
+        <test-method is-config="true" signature="Sample2AfterMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2AfterMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2AfterMethod -->
+        <test-method is-config="true" signature="Sample2BeforeMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2BeforeMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2BeforeMethod -->
+        <test-method signature="Sample2Test3()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2Test3" finished-at="2019-08-15T14:20:59Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2Test3 -->
+        <test-method is-config="true" signature="Sample2AfterMethod()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2AfterMethod" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2AfterMethod -->
+        <test-method is-config="true" signature="Sample2AfterClass()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2AfterClass" finished-at="2019-08-15T14:20:59Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2AfterClass -->
+        <test-method is-config="true" signature="Sample2AfterTest()[pri:0, instance:com.mycompany.seleniumjavaproject.Sample2Test@8909f18]" started-at="2019-08-15T14:20:59Z" name="Sample2AfterTest" finished-at="2019-08-15T14:20:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2AfterTest -->
+      </class> <!-- com.mycompany.seleniumjavaproject.Sample2Test -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
