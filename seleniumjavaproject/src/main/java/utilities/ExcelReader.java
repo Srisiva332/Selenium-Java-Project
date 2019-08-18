@@ -59,12 +59,12 @@ public class ExcelReader {
 			{
 				String cellValue =  String.valueOf(cell.getNumericCellValue());
 				if(HSSFDateUtil.isCellDateFormatted(cell))
-                {
-                    DateFormat df = new SimpleDateFormat("dd/MM/yyyy");
-                    Date date = cell.getDateCellValue();
-                    cellValue = df.format(date);
-                }
-                return cellValue;
+				{
+					DateFormat df = new SimpleDateFormat("dd/MM/yyyy");
+					Date date = cell.getDateCellValue();
+					cellValue = df.format(date);
+				}
+				return cellValue;
 			}
 			else if(cell.getCellType() == CellType.BLANK)
 				return "";
