@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 import org.testng.annotations.Test;
 
-import utilities.ExcelReader;
+import datareaders.ExcelReader;
 
 public class ExcelReadingTest {
 	String sheetName = "TestData";
